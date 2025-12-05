@@ -1,0 +1,4 @@
+311_2020.csv filter=lfs diff=lfs merge=lfs -text
+311_2021.csv filter=lfs diff=lfs merge=lfs -text
+opa_properties_assessment.csv filter=lfs diff=lfs merge=lfs -text
+opa_properties_assessments.csv filter=lfs diff=lfs merge=lfs -text
